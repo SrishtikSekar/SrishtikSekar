@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @SrishtikSekar
 
 - 👀 I’m interested in **Deep Learning and AI**.
-- 🌱 I’m currently learning **LangChain**.
+- 🌱 I’m currently learning **LangChain,Pytorch and Tensorflow**.
 - 💞️ I’m looking to collaborate on exciting projects in AI and ML!
 - 📫 How to reach me: [gsrishtiksekar@gmail.com](mailto:gsrishtiksekar@gmail.com)
 - 😄 Pronouns: He/Him
